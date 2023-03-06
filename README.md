@@ -4,6 +4,6 @@
 
  Save the files in a folder and open the file "index.html" in your browser.
 
- Video on [YouTube](https://www.youtube.com/@bella_mrx)
+ Video on [YouTube](https://youtu.be/8j6uFx2THZ4)
 
  ![PreviewImage](PasswordGenerator.JPG)
