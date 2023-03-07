@@ -9,4 +9,5 @@
  ![PreviewImage](PasswordGenerator.JPG)
 
  Mobile View
+ 
  ![PreviewImage](PasswordGeneratorMobile.JPG)
