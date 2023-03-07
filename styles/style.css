@@ -149,14 +149,13 @@ span {
   .fa {
 	font-size: 1rem;
   }
+
+  .number {
+    max-width: 12vw;
+  }
 }
 
-/* smartphones */
-@media screen and (min-width: 320px) and (max-width: 480px) {
-    .number {
-        max-width: 12vw;
-    }
-}
+
 
 /* tablets, netbooks */
 @media screen and (min-width: 768px) and (max-width: 960px) {
