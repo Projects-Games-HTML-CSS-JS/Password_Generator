@@ -29,6 +29,7 @@ const keys = {
     const lower = document.getElementById("lowerCase").checked;
     const number = document.getElementById("number").checked;
     const symbol = document.getElementById("symbol").checked;
+    // if no checkbox is selected, a message is displayed
     if (upper + lower + number + symbol === 0) {
       alert("Please check at least one box!");
       return;
