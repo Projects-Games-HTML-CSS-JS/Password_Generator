@@ -2,7 +2,7 @@
 
  generates a password according to user's request, build with JavaScript, HTMl, CSS.
  
- Try out the Password generator here [book-of-coding.com](https://book-of-coding.com/build_projects.html#password-generator)
+ Try out the Password generator here [LaunchFree.net](https://launchfree.net/sites/pw_generator/pass_gen.html)
 
 
  Preview
